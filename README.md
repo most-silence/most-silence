@@ -66,7 +66,7 @@ Passionate about computer science and IT and Internet careers, inspired to becom
 **Graduate Student**
 [**NJU**]([南京大学 (nju.edu.cn)](https://www.nju.edu.cn/)) • 2023/09/01 - 2025/07/01
 Skills: `Still learning`
-<br/>
+<br>
 
 
 [<img align="left" height="94px" width="94px" alt="SCUT" src="./Res/Icon/SCUT.png"/>](https://www.scut.edu.cn/)
