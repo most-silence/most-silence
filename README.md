@@ -68,12 +68,12 @@ Passionate about computer science and IT and Internet careers, inspired to becom
 Skills: `Still learning`
 <br/>
 
+
 [<img align="left" height="94px" width="94px" alt="SCUT" src="./Res/Icon/SCUT.png"/>](https://www.scut.edu.cn/)
 
 **Bachelor Degree**
 [**SCUT**](https://www.scut.edu.cn/) • 2019/09/01 - 2023/07/01
 Skills: `Communication Principle`, `Operating system`, `Data Structure&Algorithm`, `Computer Network`, `Python`, `Qt`,  `etc.`
-
 <br>
 
 
