@@ -33,7 +33,16 @@ Passionate about computer science and IT and Internet careers, inspired to becom
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=most-silence&title_color=333&text_color=777">
+<p align="center">
+  <a href="https://github.com/most-silence" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=most-silence&title_color=333&text_color=777" alt="JackHCC's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="JackHCC's Stats" >
+    -->
+  </a>
+</p>
+
+
 
 
 ---
