@@ -55,17 +55,17 @@ Passionate about computer science and IT and Internet careers, inspired to becom
 
 [<img align="left" height="94px" width="94px" alt="NJU" src="./Res/Icon/NJU.jpg"/>](https://www.nju.edu.cn/)
 
-**Graduate Student**
-[**NJU**](https://www.nju.edu.cn/)  • 2023/09/01 - 2025/07/01
-Skills: `Still learning`
+**Graduate Student** \
+[**NJU**](https://www.nju.edu.cn/)  • 2023/09/01 - 2025/07/01 \
+Skills: `Still learning` \
 <br />
 
 
 [<img align="left" height="94px" width="94px" alt="SCUT" src="./Res/Icon/SCUT.png"/>](https://www.scut.edu.cn/)
 
-**Bachelor Degree**
-[**SCUT**](https://www.scut.edu.cn/) • 2019/09/01 - 2023/07/01
-Skills: `Communication Principle`, `Operating system`, `Data Structure&Algorithm`, `Computer Network`, `Python`, `Qt`,  `etc.`
+**Bachelor Degree** \
+[**SCUT**](https://www.scut.edu.cn/) • 2019/09/01 - 2023/07/01 \
+Skills: `Communication Principle`, `Operating system`, `Data Structure&Algorithm`, `Computer Network`, `Python`, `Qt`,  `etc.` \
 <br>
 
 ---
