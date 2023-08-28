@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p>Hi, 👋  I'm XiaQiang Liao, you also can call me Sharh or Leo.
 
-
 Passionate about computer science and IT and Internet careers, inspired to become an excellent developer！
 
 <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
@@ -42,20 +41,13 @@ Passionate about computer science and IT and Internet careers, inspired to becom
   </a>
 </p>
 
-
-
-
 ---
 
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="[南京大学 (nju.edu.cn)](https://www.nju.edu.cn/)">Nanjing University</a>**, majoring in **Sofeware Engineering**
-
 - 💬 Ask me about **Distro and Linux**
-
 - 📫 You can get in touch with me by email at [1945651923@qq.com](mailto:1945651923@qq.com)
-
-  
 
 ---
 
@@ -64,9 +56,9 @@ Passionate about computer science and IT and Internet careers, inspired to becom
 [<img align="left" height="94px" width="94px" alt="NJU" src="./Res/Icon/NJU.jpg"/>](https://www.nju.edu.cn/)
 
 **Graduate Student**
-[**NJU**]([南京大学 (nju.edu.cn)](https://www.nju.edu.cn/)) • 2023/09/01 - 2025/07/01
+[**NJU**](https://www.nju.edu.cn/)  • 2023/09/01 - 2025/07/01
 Skills: `Still learning`
-<br>
+<br />
 
 
 [<img align="left" height="94px" width="94px" alt="SCUT" src="./Res/Icon/SCUT.png"/>](https://www.scut.edu.cn/)
@@ -75,8 +67,6 @@ Skills: `Still learning`
 [**SCUT**](https://www.scut.edu.cn/) • 2019/09/01 - 2023/07/01
 Skills: `Communication Principle`, `Operating system`, `Data Structure&Algorithm`, `Computer Network`, `Python`, `Qt`,  `etc.`
 <br>
-
-
 
 ---
 
@@ -102,8 +92,6 @@ Skills: `Communication Principle`, `Operating system`, `Data Structure&Algorithm
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://fedoraproject.org/assets/images/logos/fedora-blue.png" alt="Docker" title="Docker"></code>
-
-
 
 ---
 
