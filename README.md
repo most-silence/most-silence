@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### ✨Code make the world better
 
-<p>Hi, 👋  I'm XiaQiang Liao, you also can call me Sharh or Leo.
+<p>Hi, 👋  I'm Sharh, you also can call me Sharh or Leo.
 
 Passionate about computer science and IT and Internet careers, inspired to become an excellent developer！
 
